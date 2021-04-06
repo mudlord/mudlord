@@ -1,7 +1,5 @@
 ![alt text](https://i.imgur.com/p9l3Y02.jpg "Logo Title Text 1")
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just some notes about my Twitter and other stuff<br>1) &quot;Stop pestering about new shit.<br> I don&#39;t work for you. Ever. The end.&quot;<br>2) Posts on account are about random things I do, you are warned.<br><br>If this bothers you, you can simply leave. I really don&#39;t care.</p>&mdash; mountnside (@mountnside) <a href="https://twitter.com/mountnside/status/1359726984905990151?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 
 **Disclaimer**
 
