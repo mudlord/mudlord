@@ -5,6 +5,7 @@
 
 **Do not expect any support/help on projects here. Pull requests will also be dismissed.**
 
-- 👋 Hi, I’m @mudlord. 
-- 👀 I’m interested in software reverse engineering, democoding, and sometimes emulation
-- 📫 There is no way to properly reach me. And I like it that way.
+- 👋 Hi, I’m mudlord. 
+- 👀 I’m interested in software RE, democoding, and sometimes emulation. Sometimes other random code too.
+- 👉 Please note the development practises of code/RE [here](https://twitter.com/mountnside/status/1388325505514971136).
+- 📫 I am somewhat available on Twitter.
