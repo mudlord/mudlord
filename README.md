@@ -11,3 +11,8 @@
    - All code/RE first and foremost is done for my own self benefit, in my spare time.
    - All code/RE is done **whenever I feel like** and **when its done**.
    - Use **at own risk**. All code/RE is released without any warranties, etc.
+
+All code/RE is done on the following:
+![pcspecs](https://user-images.githubusercontent.com/56025978/122656166-88314b00-d19b-11eb-909c-7e8dfe920795.PNG)
+![Screenshot_2021-06-19_131323](https://user-images.githubusercontent.com/56025978/122656168-89627800-d19b-11eb-94c4-d1ff02e382f0.png)
+
