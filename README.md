@@ -9,5 +9,5 @@
 - 👀 I’m interested in software RE, democoding, and sometimes emulation. Sometimes other random code too.
 - 👉 Please note the development practises of code/RE:
    - All code first and foremost is done for own self benefit.
-   - All code/RE is done in spare time, **whenever I feel like** and **"when its done"**.
+   - All code/RE is done in spare time, **whenever I feel like** and **when its done**.
    - Use with **extreme** caution and at own risk. All code is released without any warranties, etc.
