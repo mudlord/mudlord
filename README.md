@@ -8,6 +8,6 @@
 - 👋 Hi, I’m mudlord. 
 - 👀 I’m interested in software RE, democoding, and sometimes emulation. Sometimes other random code too.
 - 👉 Please note the development practises of code/RE:
-   - All code first and foremost is done for own self benefit.
-   - All code/RE is done in spare time, **whenever I feel like** and **when its done**.
-   - Use with **extreme** caution and at own risk. All code is released without any warranties, etc.
+   - All code/RE first and foremost is done for my own self benefit, in my spare time.
+   - All code/RE is done **whenever I feel like** and **when its done**.
+   - Use **at own risk**. All code/RE is released without any warranties, etc.
