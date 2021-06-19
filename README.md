@@ -12,7 +12,7 @@
    - All code/RE is done **whenever I feel like** and **when its done**.
    - Use **at own risk**. All code/RE is released without any warranties, etc.
 
-- All code/RE is done on the following. **YMMV*:
+- All code/RE is done on the following. **YMMV**:
 
 **Laptop**:
 
