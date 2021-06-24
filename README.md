@@ -2,7 +2,7 @@
 
 **Do not expect any support/help on projects here. Pull requests will also be dismissed.**
 
-- 👋 Hi, I’m mudlord. Tripcode on 4ch is "mudlord **!/0nkQb4ahI**" 
+- 👋 Hi, I’m mudlord. Tripcode on 4ch is "**!/0nkQb4ahI**" 
 - 👀 I’m interested in software RE, democoding, and sometimes emulation. Sometimes other random code too.
 - 👉 Please note the development practises of code/RE:
    - All code/RE first and foremost is done for my own self benefit, in my spare time.
