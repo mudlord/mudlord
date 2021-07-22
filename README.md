@@ -8,3 +8,4 @@
    - All code/RE first and foremost is done for my own self benefit, in my spare time.
    - All code/RE is done **whenever I feel like** and **when its done**.
    - Use **at own risk**. All code/RE is released without any warranties, etc.
+   - Pretty much **all** code here is released into the public domain. Feel free to leech/steal/sellwithoutcredit/etc.
